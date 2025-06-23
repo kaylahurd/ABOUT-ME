@@ -13,11 +13,9 @@
 - A full-stack **Real Estate Marketplace Web App** designed to help users post, browse, and evaluate property listings. The platform features a responsive UI built with React, backend services handled via Supabase, and an integrated machine learning model that predicts property prices based on location, size, and other features. The system supports dynamic user flows, real-time updates, and secure data handling.
 
 
-🚀 I am passionate about learning by doing. I regularly sharpen my coding skills through LeetCode and am currently improving my understanding of APIs, authentication, and SQL databases. I enjoy bridging the gap between user-friendly design and technical functionality, and I aim to build tools that are both helpful and visually polished.
-
 🎯 Currently, I am a **Technology Intern at LocumTenens.com**, where I independently designed and developed an internal **Inventory Management System** used by my team to track and manage equipment. I’ve also supported the technical side of onboarding, reimaging devices, and troubleshooting issues across departments. Beyond my core responsibilities, I’ve been actively involved in software team meetings and sprint demos to learn more about the development process. I’m proactively seeking opportunities to contribute to real software engineering work within the company and am aiming to transition into a developer-focused role.
 
-📌 Outside of academics and work, I actively seek growth opportunities. I’ve participated in dev team meetings, asked to shadow software developers, and explored how tech products are built, tested, and improved in a professional environment. These experiences have strengthened both my technical and communication skills.
+📌 Outside of academics and work, I actively seek growth opportunities. I’ve participated in dev team meetings, shadowed software developers, and explored how tech products are built, tested, and improved in a professional environment. These experiences have strengthened both my technical and communication skills.
 
 Skills
 
