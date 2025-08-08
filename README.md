@@ -2,7 +2,7 @@
 
 👩🏽‍🎓 I am a senior at Georgia State University, pursuing a Bachelor of Science in Computer Science and set to graduate in December 2025. My coursework has covered core computer science topics like Data Structures and Algorithms, Software Engineering, and Computer Architecture. I’ve also explored project-based learning through frontend and backend development. 📚
 
-📑 My journey into technology began with robotics in elementary school, where I helped design and program competitive robots through my Senior year of high school. That hands-on experience gave me a deep appreciation for how hardware and software work together, and it ignited my interest in building tools that solve real-world problems. I started learning programming basics through Java and Python, and have since expanded into full-stack development.
+My journey into technology began with robotics in elementary school, where I helped design and program competitive robots through my Senior year of high school. That hands-on experience gave me a deep appreciation for how hardware and software work together, and it ignited my interest in building tools that solve real-world problems. I started learning programming basics through Java and Python, and have since expanded into full-stack development.
 
 💻 I’ve built several personal and team-based projects that showcase my growth and versatility as a developer. These include:
 
@@ -19,8 +19,8 @@
 
 Skills
 
-Languages: Python, JavaScript, Swift, HTML, CSS, C  
-Technologies: React.js, Supabase, Flask, SwiftUI  
-Tools: GitHub, Postman, Figma, Xcode, VS Code, Excel  
+Languages: Python, JavaScript, Swift, HTML, CSS, C#, C  
+Technologies: React.js, Supabase, Flask, SwiftUI, AI/ML  
+Tools: GitHub, Postman, Figma, Xcode, VS Code, Excel, Azure DevOps  
 
 🏆 My accomplishments include building production-ready tools during my internship, creating full-stack applications from scratch, and taking the initiative to grow beyond my current role. I’m working hard to become a full-time **Software Engineer** — where I can continue to build useful, impactful products and contribute to a team that values creativity, growth, and innovation.
