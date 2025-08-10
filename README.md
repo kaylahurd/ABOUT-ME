@@ -33,4 +33,4 @@ I’m working toward becoming a **Software Engineer** where I can build useful, 
 ---
 
 📫 **Connect with me**  
-[LinkedIn](https://www.linkedin.com/in/kayla-hurd) • [GitHub](https://github.com/kaylahurd)
+[LinkedIn](https://www.linkedin.com/in/kayla-hurd)
