@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Kayla Hurd  
 
-🎓 **Senior Computer Science Student @ Georgia State University**  
-💻 Aspiring **Software Engineer** | Graduation: **December 2025**  
+ **Senior Computer Science Student @ Georgia State University**  
+Aspiring **Software Engineer** | Graduation: **December 2025**  
 
 ---
 
@@ -13,10 +13,10 @@ I’ve since built full-stack apps, mobile apps, and AI-powered tools — always
 ---
 
 ## 🚀 Featured Projects  
-- **📦 Inventory Management System** – Full-stack **React + Flask** app to track and manage equipment with authentication, live updates, historical data, and CSV export matching a company spreadsheet.  
-- **🍎 Calorie Tracker iOS App** – Built with **Swift/SwiftUI** using **Gemini’s APIs** to store ingredients, create meals with serving sizes, and auto-calculate calories.  
-- **✈️ Flight Tracker App** – **React** app using the **AviationStack API** to search flights by number or route with real-time updates.  
-- **🤖 AI Career Path Predictor** – **Streamlit** app using the **OpenAI API** to suggest tech career paths based on skills and interests.  
+- **Inventory Management System** – Full-stack **React + Flask** app to track and manage equipment with authentication, live updates, historical data, and CSV export matching a company spreadsheet.  
+- **Calorie Tracker iOS App** – Built with **Swift/SwiftUI** using **Gemini’s APIs** to store ingredients, create meals with serving sizes, and auto-calculate calories.  
+- **✈Flight Tracker App** – **React** app using the **AviationStack API** to search flights by number or route with real-time updates.  
+- ** AI Career Path Predictor** – **Streamlit** app using the **OpenAI API** to suggest tech career paths based on skills and interests.  
 
 ---
 
