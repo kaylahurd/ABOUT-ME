@@ -1,8 +1,4 @@
 # 👋 Hi, I’m Kayla Hurd  
-
- **Senior Computer Science Student @ Georgia State University**  
-Aspiring **Software Engineer** | Graduation: **December 2025**  
-
 ---
 
 ## 🌟 About Me  
